@@ -3,9 +3,10 @@
 
 ## IP Address
 
-https://seeip.org
+
+https://amazon.com
 ```
-curl https://ip.seeip.org/
+curl https://checkip.amazonaws.com
 ```
 <details>
   <summary>Notes</summary>
@@ -14,16 +15,27 @@ None.
 
  <br />
 
-https://myip.com
+https://icanhazip.com
 ```
-curl https://api.myip.com/
+curl https://icanhazip.com
 ```
 <details>
   <summary>Notes</summary>
-Returns JSON.
+None. 
 </details>
 
- <br />
+<br />
+
+https://ifconfig.me
+```
+curl https://ifconfig.me
+```
+<details>
+  <summary>Notes</summary>
+None. 
+</details>
+
+<br />
 
 https://ipify.org
 ```
@@ -40,19 +52,8 @@ Use:
 </details>
 
  <br />
-
-https://amazon.com
-```
-curl https://checkip.amazonaws.com
-```
-<details>
-  <summary>Notes</summary>
-None.
-</details>
-
- <br />
-
-https://ipinfo.io
+ 
+ https://ipinfo.io
 ```
 curl https://ipinfo.io/ip
 ```
@@ -63,25 +64,30 @@ Leave off /ip for more info.
 
  <br />
 
-https://icanhazip.com
+https://myip.com
 ```
-curl https://icanhazip.com
+curl https://api.myip.com/
 ```
 <details>
   <summary>Notes</summary>
-None. 
+Returns JSON.
+</details>
+
+ <br />
+ 
+https://seeip.org
+```
+curl https://ip.seeip.org/
+```
+<details>
+  <summary>Notes</summary>
+None.
 </details>
 
  <br />
 
-https://ifconfig.me
-```
-curl https://ifconfig.me
-```
-<details>
-  <summary>Notes</summary>
-None. 
-</details>
+
+
 
 
 
