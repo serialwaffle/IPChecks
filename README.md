@@ -77,6 +77,21 @@ Returns JSON.
 </details>
 
  <br />
+
+https://myexternalip.com
+```
+curl https://myexternalip.com/raw
+```
+<details>
+Use:
+  
+  ```
+   curl https://myexternalip.com/json
+  ```
+  To return JSON
+</details>
+
+ <br />
  
  https://opendns.com
 ```
