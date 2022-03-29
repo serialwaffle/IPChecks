@@ -78,17 +78,6 @@ Leave off /ip for more info.
 
  <br />
 
-https://myip.com
-```
-curl https://api.myip.com/
-```
-<details>
-  <summary>Notes</summary>
-Returns JSON.
-</details>
-
- <br />
-
 https://myexternalip.com
 ```
 curl https://myexternalip.com/raw
@@ -100,6 +89,17 @@ Use:
    curl https://myexternalip.com/json
   ```
   To return JSON
+</details>
+
+<br />
+
+https://myip.com
+```
+curl https://api.myip.com/
+```
+<details>
+  <summary>Notes</summary>
+Returns JSON.
 </details>
 
  <br />
