@@ -13,6 +13,17 @@ For the list in text form, [Click Here.](https://github.com/serialwaffle/MyIPQue
 ## The list.
 
 
+https://akamai.com
+```
+curl http://whatismyip.akamai.com
+```
+<details>
+  <summary>Notes</summary>
+None.
+</details>
+
+ <br />
+
 https://amazon.com
 ```
 curl https://checkip.amazonaws.com
