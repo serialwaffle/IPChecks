@@ -8,6 +8,7 @@ curl https://ifconfig.co
 curl https://ifconfig.me
 curl https://ipapi.co/ip/
 curl https://ipecho.net/plain
+curl https://ipgrab.io
 curl https://api.ipify.org
 curl https://api.ipify.org?format=json
 curl https://ipinfo.io/ip
