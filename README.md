@@ -29,6 +29,17 @@ None.
 
 <br />
 
+https://ifconfig.co
+```
+curl https://ifconfig.co
+```
+<details>
+  <summary>Notes</summary>
+None. 
+</details>
+
+<br />
+
 https://ifconfig.me
 ```
 curl https://ifconfig.me
