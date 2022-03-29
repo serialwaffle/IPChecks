@@ -57,6 +57,17 @@ None.
 
 <br />
 
+https://ident.me
+```
+curl https://ident.me
+```
+<details>
+  <summary>Notes</summary>
+None. 
+</details>
+
+<br />
+
 https://ifconfig.co
 ```
 curl https://ifconfig.co
