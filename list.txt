@@ -1,4 +1,4 @@
-
+curl http://whatismyip.akamai.com
 curl https://checkip.amazonaws.com
 curl http://checkip.dyndns.org
 curl https://icanhazip.com
