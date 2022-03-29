@@ -78,6 +78,17 @@ Returns JSON.
 
  <br />
  
+ https://opendns.com
+```
+nslookup myip.opendns.com. resolver1.opendns.com
+```
+<details>
+  <summary>Notes</summary>
+Uses resolver1.opendns.com dns server to resolve the magical myip.opendns.com hostname toyour ip address.   Returns DNS response.
+</details>
+
+ <br />
+ 
 https://seeip.org
 ```
 curl https://ip.seeip.org/
