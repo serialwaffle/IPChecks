@@ -1,5 +1,6 @@
 
 curl https://checkip.amazonaws.com
+curl http://checkip.dyndns.org
 curl https://icanhazip.com
 curl https://ifconfig.co
 curl https://ifconfig.me
