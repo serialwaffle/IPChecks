@@ -160,6 +160,17 @@ Leave off /ip for more info.
 </details>
 
  <br />
+ 
+ https://jsontest.com
+```
+curl http://ip.jsontest.com/
+```
+<details>
+  <summary>Notes</summary>
+None. 
+</details>
+
+ <br />
 
 https://myexternalip.com
 ```
