@@ -127,7 +127,14 @@ nslookup myip.opendns.com. resolver1.opendns.com
 ```
 <details>
   <summary>Notes</summary>
-Uses resolver1.opendns.com dns server to resolve the magical myip.opendns.com hostname toyour ip address.   Returns DNS response.
+Uses resolver1.opendns.com dns server to resolve the magical myip.opendns.com hostname to your ip address.
+Also works with dig:
+ 
+ ```
+ dig +short myip.opendns.com @resolver1.opendns.com 
+ ```
+
+ Returns DNS response.
 </details>
 
  <br />
