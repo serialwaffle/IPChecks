@@ -6,6 +6,14 @@ curl <URL>
 ```
 <br />
 
+## Nim
+```nim
+import HttpClient
+var ip = newHttpClient().getContent("<URL>")
+echo(ip)
+```
+<br />
+
 ## PHP
 ```php
 <?php
