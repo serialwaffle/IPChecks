@@ -19,4 +19,5 @@ curl https://myexternalip.com/json
 curl https://api.myip.com/
 nslookup myip.opendns.com. resolver1.opendns.com
 curl https://ip.seeip.org/
+curl https://www.trackip.net/ip
 
