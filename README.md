@@ -56,6 +56,17 @@ If dig is available.
 </details>
 
  <br />
+ 
+https://hostip.info
+```
+ curl http://api.hostip.info/get_json.php
+```
+<details>
+  <summary>Notes</summary>
+Returns JSON.
+</details>
+
+ <br />
 
 https://icanhazip.com
 ```
