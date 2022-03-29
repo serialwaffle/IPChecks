@@ -49,3 +49,39 @@ curl https://checkip.amazonaws.com
   <summary>Notes</summary>
 None.
 </details>
+
+ <br />
+
+https://ipinfo.io
+```
+curl https://ipinfo.io/ip
+```
+<details>
+  <summary>Notes</summary>
+Leave off /ip for more info. 
+</details>
+
+ <br />
+
+https://icanhazip.com
+```
+curl https://icanhazip.com
+```
+<details>
+  <summary>Notes</summary>
+None. 
+</details>
+
+ <br />
+
+https://ifconfig.me
+```
+curl https://ifconfig.me
+```
+<details>
+  <summary>Notes</summary>
+None. 
+</details>
+
+
+
