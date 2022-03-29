@@ -34,6 +34,16 @@ None.
 </details>
 
  <br />
+ https://dnsomatic.com
+```
+curl https://myip.dnsomatic.com/
+```
+<details>
+  <summary>Notes</summary>
+None.
+</details>
+
+ <br />
  
 https://dyndns.org
 ```
@@ -225,11 +235,31 @@ Also works with dig:
  Returns DNS response.
 </details>
 
+```
+curl https://diagnostic.opendns.com/myip
+```
+
+<details>
+  <summary>Notes</summary>
+None.
+</details>
+
  <br />
  
 https://seeip.org
 ```
 curl https://ip.seeip.org/
+```
+<details>
+  <summary>Notes</summary>
+None.
+</details>
+
+ <br />
+ 
+https://tnx.nl
+```
+curl https://tnx.nl/ip
 ```
 <details>
   <summary>Notes</summary>
