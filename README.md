@@ -35,13 +35,24 @@ None.
 
  <br />
  
- https://dyndns.org
+https://dyndns.org
 ```
 curl http://checkip.dyndns.org
 ```
 <details>
   <summary>Notes</summary>
 None.
+</details>
+
+ <br />
+ 
+https://google.com
+```
+ dig TXT +short o-o.myaddr.l.google.com @ns1.google.com
+```
+<details>
+  <summary>Notes</summary>
+If dig is available.
 </details>
 
  <br />
@@ -93,6 +104,17 @@ None.
 https://ipapi.co
 ```
 curl https://ipapi.co/ip/
+```
+<details>
+  <summary>Notes</summary>
+None. 
+</details>
+
+<br />
+
+https://ipecho.net
+```
+curl https://ipecho.net/plain
 ```
 <details>
   <summary>Notes</summary>
