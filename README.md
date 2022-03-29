@@ -2,6 +2,10 @@
  
  An alphabetical list of URLs that will return the requester's external IP address.
  
+All examples below are used/tested in Linux bash and Windows cmd.
+
+For use cases in other languages, [Click Here.](https://github.com/serialwaffle/MyIPQuery/blob/main/CodeSamples.md)
+ 
  @serialWaffle if you want to contribute.
 
 ## The list.
