@@ -40,6 +40,17 @@ None.
 
 <br />
 
+https://ipapi.co
+```
+curl https://ipapi.co/ip/
+```
+<details>
+  <summary>Notes</summary>
+None. 
+</details>
+
+<br />
+
 https://ipify.org
 ```
 curl https://api.ipify.org
