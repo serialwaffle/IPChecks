@@ -23,6 +23,17 @@ None.
 </details>
 
  <br />
+ 
+ https://dyndns.org
+```
+curl http://checkip.dyndns.org
+```
+<details>
+  <summary>Notes</summary>
+None.
+</details>
+
+ <br />
 
 https://icanhazip.com
 ```
