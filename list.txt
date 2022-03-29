@@ -2,6 +2,7 @@ curl http://whatismyip.akamai.com
 curl https://checkip.amazonaws.com
 curl http://checkip.dyndns.org
 dig TXT +short o-o.myaddr.l.google.com @ns1.google.com
+curl http://api.hostip.info/get_json.php
 curl https://icanhazip.com
 curl https://ident.me
 curl https://ifconfig.co
