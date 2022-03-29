@@ -5,6 +5,8 @@
 All examples below are used/tested in Linux bash and Windows cmd.
 
 For use cases in other languages, [Click Here.](https://github.com/serialwaffle/MyIPQuery/blob/main/CodeSamples.md)
+
+For the list in text form, [Click Here.](https://github.com/serialwaffle/MyIPQuery/blob/main/list.txt)
  
  @serialWaffle if you want to contribute.
 
