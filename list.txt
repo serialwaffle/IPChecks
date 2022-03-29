@@ -1,6 +1,7 @@
 curl http://whatismyip.akamai.com
 curl https://checkip.amazonaws.com
 curl http://checkip.dyndns.org
+curl https://myip.dnsomatic.com/
 dig TXT +short o-o.myaddr.l.google.com @ns1.google.com
 curl http://api.hostip.info/get_json.php
 curl https://icanhazip.com
@@ -15,9 +16,10 @@ curl https://api.ipify.org?format=json
 curl https://ipinfo.io/ip
 curl http://ip.jsontest.com/
 curl https://myexternalip.com/raw
-curl https://myexternalip.com/json
 curl https://api.myip.com/
 nslookup myip.opendns.com. resolver1.opendns.com
+curl https://diagnostic.opendns.com/myip
 curl https://ip.seeip.org/
+curl https://tnx.nl/ip
 curl https://www.trackip.net/ip
 
