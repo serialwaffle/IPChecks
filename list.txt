@@ -2,6 +2,7 @@ curl http://whatismyip.akamai.com
 curl https://checkip.amazonaws.com
 curl http://checkip.dyndns.org
 curl https://icanhazip.com
+curl https://ident.me
 curl https://ifconfig.co
 curl https://ifconfig.me
 curl https://ipapi.co/ip/
