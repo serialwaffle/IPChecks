@@ -1,7 +1,10 @@
-# IP Checks
- URLs that will return the requester's external IP address.
+# My IP Query
+ 
+ An alphabetical list of URLs that will return the requester's external IP address.
+ 
+ @serialWaffle if you want to contribute.
 
-## IP Address
+## The list.
 
 
 https://amazon.com
