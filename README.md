@@ -35,6 +35,7 @@ None.
 
  <br />
  https://dnsomatic.com
+ 
 ```
 curl https://myip.dnsomatic.com/
 ```
